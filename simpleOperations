@@ -1,4 +1,0 @@
-class SimpleOperations:
-
-    def __init__(self):
-        self.num = 0
